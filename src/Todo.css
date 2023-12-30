@@ -1,0 +1,53 @@
+h1{
+    text-align: center;
+}
+
+
+form{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+input{
+    width: 50%;
+    height: 2rem;
+    border-radius: 5px;
+}
+
+input:focus{
+    outline: 2px solid rgb(125, 6, 185);
+}
+
+button{
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-left: 1rem;
+    border-radius: 5px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+
+#no{
+    width: 10%;
+}
+#date{
+    width: 20%;
+}
+
+#desc{
+    width:40% ;
+}
+
+#remove{
+    width: 15%;
+}
+
+#comp{
+    width: 15%;
+}
