@@ -1,0 +1,12 @@
+.Card{
+    background-color: black;
+    padding:2rem;
+    border-radius: 10px;
+}
+
+b{
+    background-color: #242424;
+    margin-right: 1rem;
+    padding: 1rem;
+    border-radius: 10px;
+}
